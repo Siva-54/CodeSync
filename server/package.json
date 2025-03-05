@@ -1,5 +1,5 @@
 {
-  "name": "CollabX-server",
+  "name": "CodeSync",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
